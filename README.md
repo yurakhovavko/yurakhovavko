@@ -1,4 +1,4 @@
-[Edgeledger | ](https://yurakhovavko.github.io/Edgeledger_website/)<br>
+[Edgeledger | Accounting](https://yurakhovavko.github.io/Edgeledger_website/)<br>
 
 [Hotel BT | Welcome](https://yurakhovavko.github.io/hotel_website/)<br>
 
