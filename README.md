@@ -6,6 +6,6 @@
 
 [AXIT](https://yurakhovavko.github.io/AXIT/)<br>
 
-[Eventick | Kpop Tickets] (https://yurakhovavko.github.io/Evventick/)
+[Eventick | Kpop Tickets](https://yurakhovavko.github.io/Evventick/)
 
 
