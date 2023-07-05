@@ -4,7 +4,8 @@
 
 [NewsGrid | Latest News](https://yurakhovavko.github.io/newsgrid/)<br>
 
-[AXIT](https://yurakhovavko.github.io/AXIT/)
+[AXIT](https://yurakhovavko.github.io/AXIT/)<br>
+
 [Eventick | Kpop Tickets] (https://yurakhovavko.github.io/Evventick/)
 
 
